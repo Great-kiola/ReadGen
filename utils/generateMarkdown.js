@@ -2,8 +2,6 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  
-  ![project image](./imgs/inaction.png)
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -40,3 +38,5 @@ function renderLicenseBadge(license) {
   }
   return "";
 }
+
+// ![project image](./imgs/inaction.png)
