@@ -1,4 +1,4 @@
-# ReadMe-Generator
+# ReadGen
 ## Project Title
 
 ReadMe Generator
